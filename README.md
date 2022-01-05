@@ -1,0 +1,2 @@
+# manuscript_form_decoder
+原稿用紙文字コードデコーダー
